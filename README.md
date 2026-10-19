@@ -10,7 +10,7 @@ Computer Science & Engineering student (Department Rank 1 | 9.9 CGPA)[cite: 1] w
 
 ### 🚀 Featured Projects
 
-* **[NSM Attendance](https://github.com/aaliyahalics23021)** — A secure attendance platform combining face verification (YuNet & SFace) and office geofencing using React, Next.js, Python, OpenCV, and PostgreSQL[cite: 1].
+* **[NSM Attendance](https://github.com/Aaliyah-Ali/NSM-ATTENDANCE.git)** — A secure attendance platform combining face verification (YuNet & SFace) and office geofencing using React, Next.js, Python, OpenCV, and PostgreSQL[cite: 1].
 * **[Pharmaceutical Utility Network](https://github.com/aaliyahalics23021)** — An interactive web simulation demonstrating pharmaceutical batch traceability using permissioned blockchain, PBFT consensus, and cryptographic hashing[cite: 1].
 * **[Tech Job Market Intelligence Dashboard](https://github.com/aaliyahalics23021)** — An interactive Power BI & SQL dashboard analyzing technology hiring trends and role demands[cite: 1].
 
